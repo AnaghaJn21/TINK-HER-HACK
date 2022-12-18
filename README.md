@@ -29,6 +29,13 @@ Our personal fashion-stylist app was built to help you:
 
 ## Our Learnings
 
+-Python
+-Tkinter
+-Flutter
+-Figma
+-MySql
+-Datbase Connectivity
+-Git and Github
 
 # Description
 
